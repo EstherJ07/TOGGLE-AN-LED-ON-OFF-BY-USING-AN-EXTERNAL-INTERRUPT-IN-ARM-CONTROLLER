@@ -88,7 +88,7 @@ else
 
 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 
-}
+
 
 }
 
@@ -99,6 +99,8 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 <BR>
 <BR>
 
+<img width="651" height="680" alt="Screenshot 2025-11-06 193119" src="https://github.com/user-attachments/assets/8ee8234f-f5f1-4acc-b17a-6ba836bbe740" />
+<img width="610" height="384" alt="Screenshot 2025-11-06 193056" src="https://github.com/user-attachments/assets/7f237184-946e-464f-81cc-b8a4e275431b" />
 
 
 **Result :**
